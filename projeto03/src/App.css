@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 body{
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
     font-size: 3rem;
     background-color: rgba(12, 67, 119, 0.993);
     color: white;
@@ -46,4 +48,24 @@ form div#cadastro label{
   
 }
 
+.final {
+  display: flex;
+  padding: 2rem;
+}
+
+.final p{
+  font-size: 2rem;
+  width: 45rem;
+  margin: 5rem;
+
+}
+
+p{
+  font-size: 1rem;
+}
+
+.gif img{
+  
+  margin: 2rem;
+}
 
